@@ -1,2 +1,2 @@
 # yuqi-octopus.github.io
-Yuqi's website
+Yuqi's personal website
